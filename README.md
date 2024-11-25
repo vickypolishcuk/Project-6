@@ -1,3 +1,3 @@
 *Python.. ML*
 
-Some experience with model ARIME
+Some experience with model ARIMA
